@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('https://5.imimg.com/data5/SELLER/Default/2022/12/NK/UV/LK/3801422/stage-light-truss-500x500.jpg');
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+h1{
+    font-style:initial;
+    border-style: dashed;
+    border-color: rgb(255, 255, 255);
+}
+.header {
+    background-color: #2874f0;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #333;
+}
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #555;
+}
+.footer {
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #2874f0;
+    color: white;
+}
